@@ -1,0 +1,5 @@
+,C,class_weight,gamma,coef0,degree
+linear,0.1,balanced,,,
+rbf,1,balanced,0.01,,
+poly,0.1,balanced,0.1,1,3
+sigmoid,100,balanced,0.001,0,
