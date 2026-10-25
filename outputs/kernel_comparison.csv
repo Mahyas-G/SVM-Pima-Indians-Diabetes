@@ -1,0 +1,5 @@
+Kernel,Train Accuracy,Test Accuracy,Precision,Recall,F1-score
+linear,0.7866,0.7013,0.5909,0.4815,0.5306
+rbf,0.8404,0.7403,0.6522,0.5556,0.6
+poly,0.8388,0.7468,0.6596,0.5741,0.6139
+sigmoid,0.6759,0.7013,0.5714,0.5926,0.5818
